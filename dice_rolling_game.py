@@ -1,3 +1,4 @@
+
 import random
 from random import randint
 
@@ -14,12 +15,12 @@ while True:
         print("Invalid answer.")
 
 # Loop
-# Ask: roll the dice?
-# If user enters Y
-#   Generate two random numbers
-#   Print them
-# If user enters n
-#   Print thank you message
-#   Terminate
-# Else
-#   Print invalid choice
+    # Ask: roll the dice?
+    # If user enters Y
+    #   Generate two random numbers
+    #   Print them
+    # If user enters n
+    #   Print thank you message
+    #   Terminate
+    # Else
+    #   Print invalid choice
