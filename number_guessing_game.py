@@ -10,7 +10,7 @@ while True:
         elif guess < number_to_guess:
             print("Too Low!")
         else:
-            print("Please enter a valid number")
+            print("Congrats! You Guessed it ShitHead!")
             break
     except ValueError:
         print("Enter a valid number")
