@@ -12,3 +12,14 @@ while True:
         break
     else:
         print("Invalid answer.")
+
+# Loop
+# Ask: roll the dice?
+# If user enters Y
+#   Generate two random numbers
+#   Print them
+# If user enters n
+#   Print thank you message
+#   Terminate
+# Else
+#   Print invalid choice
